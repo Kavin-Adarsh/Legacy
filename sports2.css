@@ -1,0 +1,23 @@
+.image-temp{
+
+    display: inline-block;
+    
+    background-color: rgba(240, 255, 250, 0.671);
+    
+    
+}
+
+
+img {
+    width: 300px;
+    height: 190px;
+}
+
+
+.element-tag{
+
+
+    display: grid;
+
+
+}
